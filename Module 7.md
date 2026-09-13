@@ -64,6 +64,7 @@ int main()
 ## Result:
 Thus, the program is verified successfully. 
 
+---
 
 
 ## EXP NO:2 C PROGRAM FOR PASSING STRUCTURES AS FUNCTION ARGUMENTS AND RETURNING A STRUCTURE FROM A FUNCTION
@@ -122,6 +123,7 @@ int main()
 ## Result:
 Thus, the program is verified successfully
 
+---
 
  
 ## EXP.NO:3 C PROGRAM TO READ A FILE NAME FROM USER AND WRITE THAT FILE USING FOPEN()
@@ -180,6 +182,8 @@ int main()
 
 ## Result:
 Thus, the program is verified successfully
+
+---
  
 
 ## EXP NO:4   PROGRAM TO READ A FILE NAME FROM USER, WRITE THAT FILE AND INSERT TEXT IN TO THAT FILE
@@ -247,6 +251,8 @@ int main()
 
 ## Result:
 Thus, the program is verified successfully
+
+---
 
 
 
