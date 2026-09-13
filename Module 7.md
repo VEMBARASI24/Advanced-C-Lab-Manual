@@ -14,7 +14,7 @@ Else
 5.	Print details (e.age, e.n)
 6.	Return 0
  
-Program:
+## Program:
 ```
 #include <stdio.h>
 
@@ -56,7 +56,7 @@ int main()
 ```
 
 
-Output:
+## Output:
 <img width="831" height="397" alt="image" src="https://github.com/user-attachments/assets/ac9bd54d-ba85-45b1-a9fd-09884d0e316f" />
 
 
@@ -115,7 +115,7 @@ int main()
 
 
 
-Output:
+## Output:
 <img width="437" height="117" alt="image" src="https://github.com/user-attachments/assets/a42f3c5f-889c-4a60-a3ec-070f925a2cb8" />
 
 
@@ -331,9 +331,9 @@ int main()
 
 
 
-Output:
+## Output:
 
 <img width="627" height="418" alt="image" src="https://github.com/user-attachments/assets/2ddcb744-49fe-4628-b01e-1d018d46524c" />
 
-Result:
+## Result:
 Thus, the program is verified successfully
